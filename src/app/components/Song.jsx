@@ -45,10 +45,10 @@ export default React.createClass({
                         <div className="card-content">
                             <span className="card-title">Song Found!</span>
                             <div className="row">
-                                <div className="col s5">
+                                <div className="col s12 m12 l5">
                                     <table><tbody><tr><td className="center">{img}</td></tr></tbody></table>
                                 </div>
-                                <div className="col s7">
+                                <div className="col s12 m12 l7">
                                     <table>
                                         <tbody>
                                             <tr>
